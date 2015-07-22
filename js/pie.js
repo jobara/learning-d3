@@ -1,3 +1,11 @@
+/*
+Code used below is based the pie chart example from
+https://github.com/square/intro-to-d3
+
+Licensed under Apache 2.0
+https://github.com/square/intro-to-d3/blob/master/LICENSE.txt
+*/
+
 var learn = learn || {};
 
 (function () {
